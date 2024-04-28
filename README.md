@@ -41,7 +41,7 @@ To get started with running the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/ImeshaDilshani/tasty-react
+
 ```
 2. Navigate to the terminal
 ```
